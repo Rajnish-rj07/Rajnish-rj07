@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajnish Kumar Maurya</h1>
 
 <h3 align="center">
-AI Engineer • Data Engineer • Full-Stack Developer
+AI-ML Engineer • Data Engineer • Full-Stack Developer
 </h3>
 
 <p align="center">
