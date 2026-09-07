@@ -8,9 +8,6 @@ AI Engineer • Data Engineer • Full-Stack Developer
 Building AI-powered software that solves real-world problems.
 </p>
 
-<h3 align="center">
-AI-ML Engineer • Data Engineer • Full-Stack Developer
-</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rajnish-rj07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
